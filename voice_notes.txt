@@ -1,0 +1,248 @@
+
+
+[...]
+for working on pitch range, even if resting from other drills... try speaking then moving it an octave (for instance) up and repeat? would that work?
+
+	^ answer: you can, just note that it may only be part of a sentence you have to fix up. but yes, redo that inflection etc. inside the target pitch range.
+
+[...]
+what would be your recommended order for drill stacking when doing both OQ and high larynx, and any specific ones or does it vary?
+  (and is there anything to know about drill stacking in general as I've not done it much yet)
+
+	charles says: larynx first, then downwards OQ slide, then big mouth to small mouth (not heard that one before!).
+		make sure you're locking in things as you go along!
+
+[asked savvy about making creak easier...]
+	airflow vs closure.
+	make sure to balance closure if going louder doing it.
+
+[asked ama when and how to use sovtes]
+	they help abduction to work more efficiently (hence the lack of strain?), helps reach higher pitches.
+	it can help to do repeatedly in quick succession.
+
+[if the M1-M2 break is inadvertently disguised sometimes, how the heck does one listen out for it?]
+	charles said there's a volume test, you can't get shouty in M2.
+	apparently this is a thing one student of charles's they go over.
+	(rip no premium to access archive)
+
+
+[...]
+ama mentioned a muscle reflex that can happen when airflow is increased, your muscles will involuntarily tense.
+thinking about counteracting this seemingly helped fix that issue where low weight refuses to work when tired...
+[why does that happen?]
+
+	ama states it can be a learned conflation between airflow and parts of yelling
+	(e.g. that could be high weight... you end up fighting yourself! >_<).
+	e.g. you instinctly tense up to do other parts of yelling from the airflow sensation.
+
+
+[heard there's a check for M1 or M2 where M2 can't go loud. what actually happens if you try to go loud in M2?]
+	apparently on the low end you just go into airplaning.
+
+[...]
+my vocal chords keep getting sore and end up feeling stiff when practicing {low weight} even mildly (yes I'm drinking loadsa water and resting cautiously),
+  causing me to lose my voice two out of every three days (unless I force {high weight} which probably makes it yet worse). could something be wrong?
+
+	charles said: try glottal strikes, but be careful about form... apparently if you need them most get it wrong.
+		the typical case he sees is random fluctuations of insufficient vocal chord contact.
+		if glottal strikes and adduction care don't fix that it'd need more thorough diagnosis (rip)
+
+[...]
+I have noticed when practicing larynx drills, even with my tongue in an open position for "aaaa" say, my vowel sounds will shift more towards "eeee".
+  what things can cause this? (I already know twang can interfere a tiny bit, would mouth space and R2 being whack in general impact this too?)
+
+	adi says:
+	could be disproportionate mouth space.
+	try scaling a tongue-out ehhh sound.
+	throat spaces could be changed by going from a dark e to a bright o?
+	suggests doing it in steps as slides can screw this up.
+
+	Adi
+	e has high r2 low r1 
+	o has low both r1 and r2
+	ratio wise ig	// <- important bit
+
+	masc e to fem o thats mostly an r1 shift
+	masc or fem o to e for an r2 shift
+
+[...]
+{adi} had identified that even in my normal speech there is some false fold interference.
+  this came up when I noticed trouble adducting correctly for low weight in a practice session with them,
+  so have been trying to practice retraction but having some problems.
+  even when trying to actively retract, when I speak it comes back in,
+  and when I stop talking my breath is briefly raspy until the retraction pulls back again.
+  so the drills themselves are not currently sufficient because my speaking habit seems to override it,
+  and I have no idea how to break that behavioural association.
+  taking a desire to retract FVF in my voice as given, what would be your drills and strategy for achieving this?
+  (willing to demo but not sure how best to make it heard)
+
+	jana suggests a breathing in like through a straw then do an aaaaa.
+	that actually seemed to hold more reliably than the others, stay tuned I guess?
+
+[asked about proneness to soreness during low weight]
+	adi suggests sovtes may help.
+		the whole never not used without FVF before may influence but adi doesn't want to speculate.
+		however if that was the case practice _all_ sounds without FVF (including the antiexercises!).
+		if it were to keep up, get thee to a speech therapist!
+		(GPs may be crap, know that drill...)
+
+[...]
+can {low weight} be interfered with when raising larynx due to compression?
+(I heard something along the lines of there being less space in a raised position.)
+I have suddenly found myself unable to produce any sound with {low weight} when phonating after BDSD and whisper siren drills,
+so I was wondering if such an effect could be the culprit and what to watch out for / how to counteract if so.
+
+	charles says: tl;dr yes, but it /should/ be possible to overcome with a drill.
+	completely being unable to do the drill (and having to do the opposite, high weight)
+	is outside the usual problem set. may require interactive debugging with a teacher.
+	there's otherwise not a magic hack beyond practice.
+
+[...]
+how common is it to accidentally twang if you do a larynx drill incorrectly or otherwise mislearn it (yes I know I just have to practice this one!)
+and presumably it helps to avoid this if one always resets properly when re-drilling?
+
+	charles says: yes, very common. apparently there is actually more to this one!
+	"widening" the throat like one gets when yawning can help with this.
+	https://en.m.wikipedia.org/wiki/Faucalized_voice apparently mentions it,
+	note pharygneal widening/expansion.
+
+[...]
+what is M3 physically and/or why is it contested whether it exists independently?
+
+	not contested if you are well read apparently heh.
+	just by people who can't do it according to charles.
+	it's apparently hard to film according to wiki,
+	but charles knows it as only anterior (frontwards) parts of the folds being allowed to vibrate.
+
+[could you describe more thoroughly and technically what a glottal strike is? is it always just a full glottal stop done repeatedly?]
+	pretty much, perhaps not total closure all the time though (just a highly adducted state).
+	but not to be confused with glottal _onsets_ which is starting from adduction but is unlikely to be from a full stop because that's fricking hard!
+	the latter can be used to fix breathiness but can also be used to get a stronger M2 partly because a lot of people's M2 is overabducted.
+	jana reckons not for creak though apparently (for that, try going to M0 then raising it up) (they say doublecheck with charles!)
+	(it is also used in transmascs for weight.)
+
+[...]
+I've noticed at the top of my M2 pitch range I feel a distinct pressure from inside my head against my ears which makes going further (vocal bits aside) somewhat uncomfortable.
+  what's going on here, and is this expected?
+
+	charles says it could be several things.
+	could be some extra muscles firing, intracranial or facial muscles?
+	it could also just be such high air pressure that you're straining;
+	charles suggests lip trill SOVTEs for that.
+
+[...]
+could you explain in more detail what is that thing involving the pencil or chopstick under the tongue fixing?
+  is it to do with the tongue being connected to larynx position somewhat?
+
+	jana:
+	your tongue can tend to end up in things like stitch or otherwise doing undesireable things in some part when you're initially straining things connecting to it like larynx height.
+	the tongue out exercises forces the tongue to stay put more and other things move independently.
+	_this is not failsafe_ however!
+
+	as an addendum: you can also do it temporarily by pulling your tongue out gently or trying to touch your chin with your tongue,
+	or doing things like "la-la-la" to force your tongue to stop locking up.
+	these are _even less failsafe_ though.
+
+[...]
+do you have specific exercise recommendations for exploring/controlling nasality... like to do with moving the soft palette I guess?
+
+	adi says:
+	one of them is actually a balloon... imagining humming into blowing up a balloon.
+	if your sound was nasal it would be going through the nose, so the air from the 'loon would backfeed through your nose!
+
+	on more everyday note...
+	plosives tend to close the soft palate to build up the pressure else they don't work.
+	try "ho ho ho" vs a nasal form that sounds (in adi's word) like "french baguette" (lol!)
+
+	note that some sounds, like "oh", are almost entirely oral, so don't change if nasality is modified.
+
+	also note:
+	/technically/ as long as the airflow is not entirely nasal, if you block the nose,
+	the resonant cavity is still there, but will sound muted.
+
+[...]
+repeat occurence when playing around with {low weight} that I'd like some input on:
+  at first I have to watch my adduction to produce sound, but after a while it's like it's flipped...
+  I then have to abduct to _not_ produce a pitch just when I breath out without any muscle input.
+  and if I try to adduct from there like I normally would, I feel considerable tension in my throat and eventually feel sore.
+  could I be accidentally over-adducting after I've warmed up here or any other ideas?
+
+	jana suggested a slide going from adducted to abducted to try and get them to behave.
+
+	charles:
+	try terminating a note cleanly under an sovte.
+	yaga had a similar problem where she could not terminate phonation
+	(she'd end up falling down in pitch as her vocal folds relaxed but did not part).
+	/could/ be just muscle spasms (spasmodic dysphonia, or reaaaally rarely paradoxical vocal fold motion),
+	but that's conjecture.
+	defo try to get it in a clip!
+
+
+
+
+
+
+# misc tips
+reducing airflow, all else constant... go from voice sss sound to zzz (note not really a vowel) sound, removing the "s-iness" in the slide.
+try opening into "aaaa" at the end to check.
+
+terminology NB: talking about favoured harmonics from a voice's resonance is actually formants...
+
+vowel sounds can be determined by resonance ratios so try to avoid making them go out of sync...
+
+anchor words have to be created through practice!
+they're words where you practice consistency to oblivion,
+and then you use them in their anchoring fashion later to restore configs.
+
+references:
+whisper - breathiness - clear/balanced - creak/fry (- glottal stop)
+
+
+
+a rudimentary vowel set for checking for oddities:
+beat bit bet bat bart bort bot blue bus burr bush
+
+
+
+𝑺𝒂𝒗𝒗𝒚
+sh- f - s
+("ssshh", "ffff", "ssss")
+
+𝑺𝒂𝒗𝒗𝒚
+j - v - z
+("juh", "vuh", "zuh", except not really a vowel per se)
+
+^ make sure these are bright! also the IPA theta /[θ]/ I have trouble with, as in the (proper) *th*is sound.
+
+
+
+anti-clocking measure: going into fry early can help disguise where your pitch floor is.
+
+in case of that low weight sticking issue: try the slide up from low creak method.
+
+in the context of low weight... aim for maximum laziness.
+(make sure your airflow source is good though!)
+
+when practicing larynx, make sure nothing under your chin is tensing for one thing.
+this is one of those times where unnecessary tension can actually be felt as well as the thing you're trying to move!
+
+it can be a thing that FVF constricts under physical and/or mental stress.
+if you know a physical situation that causes it (e.g. exertion like lifting objects),
+try practicing retraction there (you may encounter resistance, be careful!) in order to break that.
+
+the nature of low weight means there's less in the way of retaining air.
+so while breathiness is not low weight, the former tends to be more susceptible during the latter.
+
+
+Ama /eɪmə/
+	"Practice angling it correctly and avoiding touching the walls of the laryngopharynx"
+
+	^ if one is brave enough to get their own endoscope (i.e. camera down the throat)
+
+
+
+one can play with mouth space using a brightness (noise pitch) gradient on a ssssss sound.
+
+
+
+
