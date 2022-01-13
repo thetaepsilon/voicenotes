@@ -208,6 +208,19 @@ repeat occurence when playing around with {low weight} that I'd like some input 
 
 
 
+[I asked jana about decoupling resonance and weight control conflation]
+
+	jana says ensure repeated back and forth sliding weight works first.
+	then, do that at different pitches.
+	_then_, do that at different _resonances_.
+	basically brute force combination exercising.
+
+	make sure you don't FVF, or otherwise fall into the trap that you have to force or bear down at elevated resonance.
+	if you ever make a sound that sounds like strain, stop and try again.
+
+
+
+
 
 
 
