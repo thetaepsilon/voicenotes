@@ -287,4 +287,7 @@ one can play with mouth space using a brightness (noise pitch) gradient on a sss
 
 
 
+it /_is_/ possible to find low weight from a yawn imitation.
+however that's also low larynx, so high weight would actually be masked until attempting to raise your larynx.
+
 
