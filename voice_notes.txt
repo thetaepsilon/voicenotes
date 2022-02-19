@@ -41,7 +41,8 @@ try speaking then moving it an octave (for instance) up and repeat? would that w
 what would be your recommended order for drill stacking when doing both OQ and high larynx, and any specific ones or does it vary?
 (and is there anything to know about drill stacking in general as I've not done it much yet)
 
-	charles says: larynx first, then downwards OQ slide, then big mouth to small mouth (not heard that one before!).
+	charles:
+	larynx first, then downwards OQ slide, then big mouth to small mouth (not heard that one before!).
 	make sure you're locking in things as you go along!
 
 
@@ -59,7 +60,8 @@ what would be your recommended order for drill stacking when doing both OQ and h
 
 
 [if the M1-M2 break is inadvertently disguised sometimes, how the heck does one listen out for it?]
-	charles said there's a volume test, you can't get shouty in M2.
+	charles:
+	there's a volume test, you can't get shouty in M2.
 	apparently this is a thing one student of charles's they go over.
 	(rip no premium to access archive)
 
@@ -70,7 +72,8 @@ ama mentioned a muscle reflex that can happen when airflow is increased, your mu
 thinking about counteracting this seemingly helped fix that issue where low weight refuses to work when tired...
 [why does that happen?]
 
-	ama states it can be a learned conflation between airflow and parts of yelling
+	ama:
+	it can be a learned conflation between airflow and parts of yelling
 	(e.g. that could be high weight... you end up fighting yourself! >_<).
 	e.g. you instinctly tense up to do other parts of yelling from the airflow sensation.
 
@@ -126,14 +129,16 @@ and I have no idea how to break that behavioural association.
 taking a desire to retract FVF in my voice as given, what would be your drills and strategy for achieving this?
 willing to demo but not sure how best to make it heard)
 
-	jana suggests a breathing in like through a straw then do an aaaaa.
+	jana:
+	breath in like through a straw then do an aaaaa.
 	that actually seemed to hold more reliably than the others, stay tuned I guess?
 
 
 
 [asked about proneness to soreness during low weight]
 
-	adi suggests sovtes may help.
+	adi:
+	sovtes may help.
 	the whole never not used without FVF before may influence but adi doesn't want to speculate.
 	however if that was the case practice _all_ sounds without FVF (including the antiexercises!).
 	if it were to keep up, get thee to a speech therapist!
@@ -147,7 +152,8 @@ can {low weight} be interfered with when raising larynx due to compression?
 I have suddenly found myself unable to produce any sound with {low weight} when phonating after BDSD and whisper siren drills,
 so I was wondering if such an effect could be the culprit and what to watch out for / how to counteract if so.
 
-	charles says: tl;dr yes, but it /should/ be possible to overcome with a drill.
+	charles:
+	tl;dr yes, but it /should/ be possible to overcome with a drill.
 	completely being unable to do the drill (and having to do the opposite, high weight)
 	is outside the usual problem set. may require interactive debugging with a teacher.
 	there's otherwise not a magic hack beyond practice.
@@ -156,7 +162,8 @@ so I was wondering if such an effect could be the culprit and what to watch out 
 how common is it to accidentally twang if you do a larynx drill incorrectly or otherwise mislearn it (yes I know I just have to practice this one!)
 and presumably it helps to avoid this if one always resets properly when re-drilling?
 
-	charles says: yes, very common. apparently there is actually more to this one!
+	charles:
+	yes, very common. apparently there is actually more to this one!
 	"widening" the throat like one gets when yawning can help with this.
 	https://en.m.wikipedia.org/wiki/Faucalized_voice apparently mentions it,
 	note pharygneal widening/expansion.
@@ -184,7 +191,8 @@ what is M3 physically and/or why is it contested whether it exists independently
 I've noticed at the top of my M2 pitch range I feel a distinct pressure from inside my head against my ears which makes going further (vocal bits aside) somewhat uncomfortable.
   what's going on here, and is this expected?
 
-	charles says it could be several things.
+	charles:
+	it could be several things.
 	could be some extra muscles firing, intracranial or facial muscles?
 	it could also just be such high air pressure that you're straining;
 	charles suggests lip trill SOVTEs for that.
@@ -205,7 +213,7 @@ could you explain in more detail what is that thing involving the pencil or chop
 [...]
 do you have specific exercise recommendations for exploring/controlling nasality... like to do with moving the soft palette I guess?
 
-	adi says:
+	adi:
 	one of them is actually a balloon... imagining humming into blowing up a balloon.
 	if your sound was nasal it would be going through the nose, so the air from the 'loon would backfeed through your nose!
 
@@ -226,7 +234,9 @@ I then have to abduct to _not_ produce a pitch just when I breath out without an
 and if I try to adduct from there like I normally would, I feel considerable tension in my throat and eventually feel sore.
 could I be accidentally over-adducting after I've warmed up here or any other ideas?
 
-	jana suggested a slide going from adducted to abducted to try and get them to behave.
+	jana:
+	suggested a slide going from adducted to abducted to try and get them to behave.
+
 
 	charles:
 	try terminating a note cleanly under an sovte.
@@ -240,7 +250,8 @@ could I be accidentally over-adducting after I've warmed up here or any other id
 
 [I asked jana about decoupling resonance and weight control conflation]
 
-	jana says ensure repeated back and forth sliding weight works first.
+	jana:
+	says ensure repeated back and forth sliding weight works first.
 	then, do that at different pitches.
 	_then_, do that at different _resonances_.
 	basically brute force combination exercising.
@@ -255,7 +266,8 @@ what is going on in M1 range expansion when one wants to do that?
 what's being worked on / changed physically and mentally during the practice of it?
 (not exercises as such, more what they're helping build - e.g. I was curious if there's any muscle changes to increase M1 pitch range)
 
-	savvy reckons it's mostly just a question of building control but didn't feel able to comment much on physiology.
+	savvy:
+	reckons it's mostly just a question of building control but didn't feel able to comment much on physiology.
 
 	charles:
 	depends on range as it goes through different stages at higher pitches and also whether you're not singing/belting or not.
@@ -268,7 +280,8 @@ what's being worked on / changed physically and mentally during the practice of 
 [...]
 do you have any recommendations on stealth fem re-drills, or ways to drill I can sneak into everyday conversation I can use without people noticing too much?
 
-	savvy suggest with the resonance one it can eventually become silent if pitch.
+	savvy:
+	suggests with the resonance one it can eventually become silent if pitch.
 	try "singing" with the resonance pitch also.
 	not really for weight but controlled breathing can help and could be snuck in.
 	be careful not to dry yourself out, though again if you reduce volume this can also improve.
@@ -284,11 +297,13 @@ do you have any recommendations on stealth fem re-drills, or ways to drill I can
 
 [can you re-explain why the M2 to M1 transition in a {low weight} slide if we start too high has a tendency to screw up the drill's effect?]
 
-	ama: it doesn't always happen! depends on M2 comfort beforehand.
+	ama:
+	it doesn't always happen! depends on M2 comfort beforehand.
 	apparently if you use M2 a lot already for instance it won't happen.
 	even a break or lack of is not a distinguishing factor.
 	but one surefire way it would be is if you really never use M2 at all and consider it a drastic switch...
 	causing the config to get reset.
+
 
 	charles:
 	there's a sane limit as it is in any case, but:
