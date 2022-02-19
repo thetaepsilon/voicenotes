@@ -39,23 +39,30 @@ try speaking then moving it an octave (for instance) up and repeat? would that w
 
 [...]
 what would be your recommended order for drill stacking when doing both OQ and high larynx, and any specific ones or does it vary?
-  (and is there anything to know about drill stacking in general as I've not done it much yet)
+(and is there anything to know about drill stacking in general as I've not done it much yet)
 
 	charles says: larynx first, then downwards OQ slide, then big mouth to small mouth (not heard that one before!).
-		make sure you're locking in things as you go along!
+	make sure you're locking in things as you go along!
+
+
 
 [asked savvy about making creak easier...]
 	airflow vs closure.
 	make sure to balance closure if going louder doing it.
 
+
+
 [asked ama when and how to use sovtes]
 	they help abduction to work more efficiently (hence the lack of strain?), helps reach higher pitches.
 	it can help to do repeatedly in quick succession.
+
+
 
 [if the M1-M2 break is inadvertently disguised sometimes, how the heck does one listen out for it?]
 	charles said there's a volume test, you can't get shouty in M2.
 	apparently this is a thing one student of charles's they go over.
 	(rip no premium to access archive)
+
 
 
 [...]
@@ -68,8 +75,12 @@ thinking about counteracting this seemingly helped fix that issue where low weig
 	e.g. you instinctly tense up to do other parts of yelling from the airflow sensation.
 
 
+
+
 [heard there's a check for M1 or M2 where M2 can't go loud. what actually happens if you try to go loud in M2?]
 	apparently on the low end you just go into airplaning.
+
+
 
 [...]
 my vocal chords keep getting sore and end up feeling stiff when practicing {low weight} even mildly
@@ -158,12 +169,16 @@ what is M3 physically and/or why is it contested whether it exists independently
 	it's apparently hard to film according to wiki,
 	but charles knows it as only anterior (frontwards) parts of the folds being allowed to vibrate.
 
+
+
 [could you describe more thoroughly and technically what a glottal strike is? is it always just a full glottal stop done repeatedly?]
 	pretty much, perhaps not total closure all the time though (just a highly adducted state).
 	but not to be confused with glottal _onsets_ which is starting from adduction but is unlikely to be from a full stop because that's fricking hard!
 	the latter can be used to fix breathiness but can also be used to get a stronger M2 partly because a lot of people's M2 is overabducted.
 	jana reckons not for creak though apparently (for that, try going to M0 then raising it up) (they say doublecheck with charles!)
 	(it is also used in transmascs for weight.)
+
+
 
 [...]
 I've noticed at the top of my M2 pitch range I feel a distinct pressure from inside my head against my ears which makes going further (vocal bits aside) somewhat uncomfortable.
@@ -250,7 +265,6 @@ what's being worked on / changed physically and mentally during the practice of 
 	and it's a bit of recurring a mental trap to think you need to do that in M1 to sound passable -
 	at that point it would be vastly easier to make M2 more natural sounding / more speech like.
 
-
 [...]
 do you have any recommendations on stealth fem re-drills, or ways to drill I can sneak into everyday conversation I can use without people noticing too much?
 
@@ -260,10 +274,12 @@ do you have any recommendations on stealth fem re-drills, or ways to drill I can
 	be careful not to dry yourself out, though again if you reduce volume this can also improve.
 
 
+
 [how does one do a rolling R? (if there's a single particular one used by the scots that's the one I'm thinking off)]
 
 	apparently the tongue tip is the thing doing the trill and is placed behind the upper teeth ridge,
 	but the entire mouth has to be closed off by a raised tongue overall so sound is forced to go through the tip (and causing it to vibrate).
+
 
 
 [can you re-explain why the M2 to M1 transition in a {low weight} slide if we start too high has a tendency to screw up the drill's effect?]
@@ -280,6 +296,7 @@ do you have any recommendations on stealth fem re-drills, or ways to drill I can
 	also, if you are used to fix rate and time sliding, you won't move far enough down to get into M1 to begin with.
 
 
+
 [...]
 I feel the need to clear my throat a lot when combining high larynx and {low weight} atm.
 I don't seem to actually move a lot of substance though
@@ -290,8 +307,6 @@ sign of minor strain perhaps?
 	more likely the larynx being raised
 	the space is reduced above it so apparently the sensation of anything in there can get amplified.
 	it should pass with time, keep an eye on it.
-
-
 
 [...]
 what's the reasoning behind the drills you specifically chose for {larynx height} and {vocal weight}?
