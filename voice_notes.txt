@@ -251,6 +251,45 @@ do you have any recommendations on stealth fem re-drills, or ways to drill I can
 	but the entire mouth has to be closed off by a raised tongue overall so sound is forced to go through the tip (and causing it to vibrate).
 
 
+[can you re-explain why the M2 to M1 transition in a {low weight} slide if we start too high has a tendency to screw up the drill's effect?]
+
+	ama: it doesn't always happen! depends on M2 comfort beforehand.
+	apparently if you use M2 a lot already for instance it won't happen.
+	even a break or lack of is not a distinguishing factor.
+	but one surefire way it would be is if you really never use M2 at all and consider it a drastic switch...
+	causing the config to get reset.
+
+	charles:
+	there's a sane limit as it is in any case, but:
+	you can strain if you go too high into untrained M2, which can end up bringing strain down with it too!
+	also, if you are used to fix rate and time sliding, you won't move far enough down to get into M1 to begin with.
+
+
+[...]
+I feel the need to clear my throat a lot when combining high larynx and {low weight} atm.
+I don't seem to actually move a lot of substance though
+(like not much actual stuff gets coughed up) so could this be something I should keep an eye on?
+sign of minor strain perhaps?
+
+	charles:
+	more likely the larynx being raised
+	the space is reduced above it so apparently the sensation of anything in there can get amplified.
+	it should pass with time, keep an eye on it.
+
+
+
+[...]
+what's the reasoning behind the drills you specifically chose for {larynx height} and {vocal weight}?
+different teachers prefer different drills,
+so I was curious what your rationale was.
+e.g. ease of listening to it?
+these particular ones easier to teach or most reliable in your experience?
+
+	charles:
+	"long story", though is mostly just the most familiar with them,
+	particularly with troubleshooting and form.
+
+
 
 
 
@@ -320,5 +359,24 @@ one can play with mouth space using a brightness (noise pitch) gradient on a sss
 
 it /_is_/ possible to find low weight from a yawn imitation.
 however that's also low larynx, so high weight would actually be masked until attempting to raise your larynx.
+
+
+
+* breath control exercises from some of savvy's other student's lessons:
+breathing in/out, first 5, then 7, then 12 for instance...
+make sure to maintain constant flow, and _do not_ a) rely on constriction feeling over lung feeling (FALSE FOLDSSSSSS),
+or b) tighten something to try to compensate for pressure loss (another trap of mine recently)
+
+try slowing down a voiced gasp:
+that's actually a breathy voiced reverse phonation and is very nearly almost always low weight (and forced low airflow).
+then slide to forward and reversed phonation in breathing.
+exact same pitch in and out is not necessary but try not to shoot of into a reaaaally high pitch when doing it.
+
+
+
+apparently sometimes it makes more sense to use brown noise rather than white.
+human voices have spectral rolloff like brown noise does (of varying degrees but still),
+whereas white noise is equal power in all frequencies.
+
 
 
