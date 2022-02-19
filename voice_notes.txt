@@ -30,9 +30,12 @@ now, on with the show.
 
 
 [...]
-for working on pitch range, even if resting from other drills... try speaking then moving it an octave (for instance) up and repeat? would that work?
+for working on pitch range, even if resting from other drills...
+try speaking then moving it an octave (for instance) up and repeat? would that work?
 
-	^ answer: you can, just note that it may only be part of a sentence you have to fix up. but yes, redo that inflection etc. inside the target pitch range.
+	charles:
+	you can, just note that it may only be part of a sentence you have to fix up.
+	but yes, redo that inflection etc. inside the target pitch range.
 
 [...]
 what would be your recommended order for drill stacking when doing both OQ and high larynx, and any specific ones or does it vary?
