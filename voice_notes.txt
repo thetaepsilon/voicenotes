@@ -425,3 +425,8 @@ whereas white noise is equal power in all frequencies.
 
 
 
+more on intonation hurdles:
+as well as the redoing intonation inside a target pitch range as mentioned in the first question at the top,
+it can sometimes help with straining and other weirdness on particular intonation patterns to do it through SOVTEs first.
+this can make it easier to then retry speech in that intonation without the anomalies.
+
