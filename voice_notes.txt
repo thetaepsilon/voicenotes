@@ -334,7 +334,30 @@ these particular ones easier to teach or most reliable in your experience?
 	"long story", though is mostly just the most familiar with them,
 	particularly with troubleshooting and form.
 
+[...]
+I've asked this before ish but I wished to refresh my knowledge:
+if one encounters persistent soreness doing a required modification for vocal gender alteration,
+even if done in small amounts then resting, what is one generally speaking supposed to do?
+rest for a day or two then try starting again slowly? and then what if that still doesn't work?
+and then so on etc., like is there a firm point we should say get thyself to a doctor?
+(this is partly for myself in future but also for what I can responsibly advise to others when answering in the question channels,
+without overstepping my boundaries.
+I don't want to encourage bad behaviour or accidental vocal harm.)
 
+	charles:
+	mentioned laryngeal massage during practice but didn't have time to go into detail.
+
+[...]
+what would you recommend for decoupling resonance from pitch?
+I seem to have an issue where a) my resonance is tied to my pitch as it moves,
+and b) where I can do a resonance exercise while using the noise measurement technique,
+but it gets overriden when I go to phonate, causing me to lose it.
+
+	savvy:
+	recommends doing resonance on a steady fixed pitch.
+	e.g. try yawning (low resonance) then going to the same pitch.
+	then normal, then raise it.
+	once you have those stops, try sliding between them.
 
 
 
@@ -429,4 +452,75 @@ more on intonation hurdles:
 as well as the redoing intonation inside a target pitch range as mentioned in the first question at the top,
 it can sometimes help with straining and other weirdness on particular intonation patterns to do it through SOVTEs first.
 this can make it easier to then retry speech in that intonation without the anomalies.
+
+
+
+resonance exploration:
+* brown noise, go as high res as possible, then adding speech
+* Adi: first thing noise use external noise,. to explore resonance, right now too much tension, try focusing on resonance in isolation with noise, if youi feel like your hitting a wall or its strained trying the posture little by little and just think what if I squeeze this bit or move this a tiny bit
+* Adi: make sure that the posture u find you can breath through comfortably and silently
+* Adi: what happens if you try to add voice, do you want to move, try not to
+* Adi:
+	resonance, voiced resonance gradients, and vowel consistency
+	tendancy to drift in vowel e.g. towards a when high res or oh when low res - we dont want this to happen because it builds bad habits
+* Adi: we also want to work on pitch resonance separation as that may be a root for why stuff sounds likeu cant get as high res as when exploring
+
+]
+Adi
+:
+try building up/finding two extremes e.g. super hollow yawny dopey etc
+[
+21:11
+]
+Adi
+:
+vs maybe even normal but see if you can go smaller
+[
+21:12
+]
+Adi
+:
+and see if you can move between those two points on one vowel
+[
+21:12
+]
+Adi
+:
+at one pitch
+[
+21:12
+]
+Adi
+:
+from there try other vowels
+[
+21:12
+]
+Adi
+:
+and different pitches
+[
+21:12
+]
+Adi
+:
+the more you explore the better
+[
+21:12
+]
+Adi
+:
+and you may also want to try different vocal weights too
+[
+21:12
+]
+Adi
+:
+e.g. as light as you can focusing on keeping it light as you scale resonacne etc
+[
+21:15
+]
+Adi
+:
+https://youtu.be/PMbQFmwSCAk
 
