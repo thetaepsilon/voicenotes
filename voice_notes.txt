@@ -384,6 +384,20 @@ do I have to worry much about mirroring causing subconcious masculinisation of s
 	even if you're not trying to imitate male specific patterns.
 	"would be willing to impose a blanket ban" <- if that's not a clear hint I don't know what is heh
 
+[...]
+could you explain what pressed phonation is technically,
+possibly give a brief demo,
+when it can occur, why it may be adviseable to avoid it,
+and what _would_ one do to avoid it if diagnostics indicated it?
+
+	charles:
+	_thinks_ it's glottic or superglottic constriction but it's not very defined.
+	apparently voice qualities described as "harsh" by technical peeps are more constrictions above the glottis (superglottic).
+	markedly "low glottal flow accompanying high pressure" apparently.
+	specifically _not_ FVF though.
+	[charles gave up after a bit due to inability to access decent technical info in a hurry,
+	didn't get other clauses]
+
 
 
 
