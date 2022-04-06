@@ -398,6 +398,19 @@ and what _would_ one do to avoid it if diagnostics indicated it?
 	[charles gave up after a bit due to inability to access decent technical info in a hurry,
 	didn't get other clauses]
 
+[...]
+for voice fem, can you re-explain the interplay that raising larynx has on {low weight} and possibly closure?
+IIRC {charles} said something about less space in that position.
+
+	charles:
+	larynx slides _IN_ when you raise it.
+	compresses interlaryngeal tissues.
+	chords more likely to be in greater closure,
+	but ironically more likely to be in closed quotient.
+	it _can_ affect pitch as well but more for resonance conflation reasons -
+	people tend to tie resonance and pitch together.
+	(aside: also note timbre changes from other things can muck with percieved octaves!)
+
 
 
 
