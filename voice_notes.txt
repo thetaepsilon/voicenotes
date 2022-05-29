@@ -463,6 +463,18 @@ could the relaxed, uncontrolled M1-M2 register break move (in pitch) at all when
 	that said, larynx passively effects vocal fold adduction.
 	so it could indeed be influenced - higher larynx would encourage M1 at higher notes.
 
+[...]
+are there any cases where it'd make sense to isolate OPC from the rest of embouchre,
+and where it'd produce any useful sound change on it's own?
+asking because someone wanted to hear a clip of it in isolation,
+and at the time to my knowledge it was rarely done like this.
+
+	charles:
+	*does examples*
+	you can isolate it and it does produce _some_ difference alone but not really a useful one.
+	it's really a small part of embouchre and that's a dynamic set of things that varies with speech.
+	it's not really useful to listen to it in isolation therefore.
+
 
 
 
